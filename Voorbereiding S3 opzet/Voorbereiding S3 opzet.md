@@ -2,9 +2,11 @@
 
 ## Doelen
 
-- Bepalen wat de Technish Informaticus die de HU verlaat minimaal moet kunnen na S3 en S4
+- Bepalen wat de Technish Informaticus die de HU verlaat minimaal moet kunnen na S3 en S4.
 
 - Voor S3 en S4 het toplevel treintje opzetten van beroepstaken en leeruitkomsten, opgesplitst in tijd naar a en b. Studenten doen dus S3a S4b of S4a S3b.
+
+- Door dat in een of meer gezamenlijke meetings te doen, zorgen dat er breed draagvlak voor is.
 
 ## Uitgangspunten
 
@@ -13,7 +15,7 @@ Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso mod
 - [Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma TI 2026.pptx)
 - Resultaten verdere discussies t.a.v S3
 - Invloed van Kennis, kunde en lesmateriaal dat het huidige TI-team heeft.
-  [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm met bedrijven 2022_02_17.pdf)
+- [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm met bedrijven 2022_02_17.pdf)
 - [Vacature-onderzoek_2023_11_24](../Bronnen/VacatureOnderzoek_2023_11_24/VacatureOnderzoek_2023_11_24.md)
 
 ## Toetsprogramma TI_2026.ppt (15 juni 2023)
@@ -28,7 +30,40 @@ Wat voor mij persoonlijk nuttig wel lijkt is om t.a.v. dat document te highlight
 - S3 heeft Control Technology als thema
 - S4 heeft Complex Systems Engineering als thema
 
-Voor mij persoonlijk is het ook nuttig om de onderliggende structuur te highlighten, en de relatie tot het programmatisch toetsen.
+Voor mij persoonlijk is het ook nuttig om de onderliggende structuur te highlighten, en de relatie tot het programmatisch toetsen (want dat beklijft niet bij me - misschien zitten er fouten in mijn interpretatie - in dat geval hoop ik op feedback daarover):
+
+### HBO-I competentiematrix
+
+<img src="file:///D:/OneDrive/OneDrive%20-%20Stichting%20Hogeschool%20Utrecht/MaveHU/Docs/Onderwijsvernieuwing/S3/S3dev/Voorbereiding%20S3%20opzet/hboi-matrix.png" title="" alt="" width="290">
+
+Alles wat een ICT-er globaal kan, in ons geval in een TI-er, kun je in de eerste plaats definieren door in een 3D-HBO-I competentiematrix hokjes aan te vinken. Dat komt op hetzelfde neer als in een 2D matrix hier en daar getalletjes van 1 tot 3 in te vullen.
+In het toetsprogramma heeft Huib dat gedemonstreerd bij S2:
+![](.\competentiematrix_S2.png)
+
+- Langs de y-as staan de **architectuurlagen**: **G**ebruikersinterface, **O**rganisatieprocessen ,**I**nfrastructuur, **S**oftware, **H**ardware Interfacing.
+
+- Langs de x-as staan van links naar rechts de **ICT-activiteiten uit de lifecycle** van informatiesystemen: **Analyseren**, **Adviseren**, **Ontwerpen**, **Realiseren**, **Beheren**
+
+- De ingevulde getalletjes zeggen iets over het **niveau** waarop. Het plaatje van de  hbo-i matrix bovenstaand laat 3 mogelijke niveaus zien. 
+
+- - Niveau 1: Bijvoorbeeld software schrijven voor een eenvoudig gegeven computersysteem, voorzien van sensoren en actuatoren.
+  - Niveau 2: Bijvoorbeeld Inrichten van eenvoudig computersysteem en via software de koppelingen met hardware componenten testen. Of het implementeren en testen van een protocol.
+  - Niveau 3: Bijvoorbeeld Realiseren van een compleet computersysteem inclusief netwerk, hardware en
+    systeemsoftware.  
+    of  
+    Opstellen en uitvoeren van een acceptatieprocedure, bijv in een virtuele
+    omgeving, inclusief aspecten als timing, resourcegebruik en performance.
+
+S2 is het eerste semester. Vandaar dat het niet verwonderlijk is dat we daar alleen enkele competenties op niveau 1 tegenkomen. In S3 en S4 dekken we in ieder geval niveau 2 af. Aan het eind van de studie delen van niveau 3.
+
+### Eindtermen TI
+
+Op de eerste sheet van de powerpoint zie je de zg. eindtermen voor TI. Een eindterm beschrijft in algemene bewoordingen wat er van een technisch informaticus na afstuderen verwacht mag worden. De eindtermen zijn verdeeld in 5 technish inhoudelijke eindtermen en 4 over professional skills.
+
+Verderop zie je sheets waarbij de eindtermen verder van detail voorzien zijn.
+Volgens mij is het een goed idee om straks te beginnen om die details te updaten, mede naar aanleiding van het vacature-onderzoek verderop.
+
+
 
 ## Samenvatting van Brainstorm met bedrijven (17 feb 2022)
 
@@ -195,7 +230,7 @@ Mijn gedachten daarbij:
 
 ### Mogelijke opsplitsing van de onderwerpen over S3 en S4 met minimale dependencies en voorbeelden van bijbehorende projecten
 
-### S3
+### Semester 3
 
 - Wat Python
 - Basisprincipes van Networking, Server, Database, Docker,
@@ -204,7 +239,7 @@ Mijn gedachten daarbij:
 - Multithreading - RTOS
 - Frontend - Javascript
 
-### S4
+### Semester 4
 
 - System Engineering (met Waterval) & Software Architectuur
 - OO & Design Patterns
