@@ -10,7 +10,7 @@
 
 Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso modo de onderstaande items. In de hiernavolgende paragrafen wordt van elk van de items een beknopte samenvatting of toelichting gegeven.
 
-- [Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma TI 2026.ppt)
+- [Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma TI 2026.pptx)
 - Resultaten verdere discussies t.a.v S3
 - Invloed van Kennis, kunde en lesmateriaal dat het huidige TI-team heeft.
   [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm met bedrijven 2022_02_17.pdf)
