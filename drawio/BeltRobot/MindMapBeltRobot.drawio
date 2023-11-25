@@ -1,0 +1,887 @@
+<mxfile host="Electron" modified="2023-11-07T07:43:06.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="hRmyVT-TZlf8ATDymv_L" version="22.0.2" type="device" pages="2">
+  <diagram name="BeltRobot" id="WaEVsYH61fU88ShkKqTx">
+    <mxGraphModel dx="2896" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" style="" parent="0" />
+        <mxCell id="sYe0hLDn-t7bIIdrBPz_-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;Mindmap&lt;/b&gt;&amp;nbsp;Beltrobot&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;labelX=128;align=left;spacingLeft=10;html=1;overflow=fill;whiteSpace=wrap;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="40" width="1400" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_XJJo5FJDeRQCqRYtE-16" value="Diagram" parent="0" />
+        <UserObject label="Remote-controlled" tags="Besturen Wireless RTOS" id="w8_XJJo5FJDeRQCqRYtE-17">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="170" y="165" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="w8_XJJo5FJDeRQCqRYtE-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-19" target="w8_XJJo5FJDeRQCqRYtE-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Naar beneden grijpend" tags="Besturen" id="w8_XJJo5FJDeRQCqRYtE-19">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="640" y="380" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="w8_XJJo5FJDeRQCqRYtE-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-22" target="w8_XJJo5FJDeRQCqRYtE-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w8_XJJo5FJDeRQCqRYtE-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-22" target="w8_XJJo5FJDeRQCqRYtE-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="523.5652157020845" y="520.2560435273117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="x,y,z pos instellen &lt;br&gt;van grip center" tags="Besturen" id="w8_XJJo5FJDeRQCqRYtE-22">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="500" y="390" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="w8_XJJo5FJDeRQCqRYtE-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-24" target="w8_XJJo5FJDeRQCqRYtE-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="566.0994990022859" y="531.8975643583881" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="rotZ hoek van &lt;br&gt;gripper instellen" tags="Besturen" id="w8_XJJo5FJDeRQCqRYtE-24">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="650" y="470" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="getweende aanpassingen" tags="Besturen" id="w8_XJJo5FJDeRQCqRYtE-25">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="420" y="540" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Electronica" id="w8_XJJo5FJDeRQCqRYtE-26">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-28" target="w8_XJJo5FJDeRQCqRYtE-29" edge="1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Electronica" id="w8_XJJo5FJDeRQCqRYtE-27">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-28" target="w8_XJJo5FJDeRQCqRYtE-22" edge="1">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="gewicht meten via stroom door AI" tags="Electronica" id="w8_XJJo5FJDeRQCqRYtE-28">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="340" y="460" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="design schakeling met meetweerstand en meetversterker/&lt;br&gt;opamps" tags="Electronica" id="w8_XJJo5FJDeRQCqRYtE-29">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="370" y="320" width="160" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="sterke floating&amp;nbsp;&lt;br&gt;point processing&lt;br&gt;(STM M4/M7&lt;br&gt;/ PC/ RPI)" tags="Besturen" id="w8_XJJo5FJDeRQCqRYtE-31">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="500" y="620" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="object detectie&lt;br&gt;(positie .. en orientatie)" tags="AI OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-400" y="450" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="G7wLqP7Of3WmWwOTWTlh-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-31" target="w8_XJJo5FJDeRQCqRYtE-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533" y="568" as="sourcePoint" />
+            <mxPoint x="543.7887405165666" y="566.9342784888127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="diepte-detectie" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-3">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-610" y="250" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-5">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-3" target="G7wLqP7Of3WmWwOTWTlh-1" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-580" y="617" as="sourcePoint" />
+              <mxPoint x="-487" y="484" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="yolo" tags="AI Meten" id="G7wLqP7Of3WmWwOTWTlh-6">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-545" y="490" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="AI Meten" id="G7wLqP7Of3WmWwOTWTlh-8">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-6" target="G7wLqP7Of3WmWwOTWTlh-1" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-352" y="566" as="sourcePoint" />
+              <mxPoint x="-318" y="519" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="opencv template" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-9">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-540" y="580" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-10">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-9" target="G7wLqP7Of3WmWwOTWTlh-1" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-317" y="645" as="sourcePoint" />
+              <mxPoint x="-303" y="520" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="opencv positie&lt;br&gt;bepaling middels&amp;nbsp;&lt;br&gt;&quot;QR&quot;" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-11">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-380" y="330" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-12">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-15" target="G7wLqP7Of3WmWwOTWTlh-11" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-10" y="510" as="sourcePoint" />
+              <mxPoint x="22" y="672" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="opencv image&lt;br&gt;processing" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-13">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-420" y="600" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-14">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-13" target="G7wLqP7Of3WmWwOTWTlh-1" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-345" y="695" as="sourcePoint" />
+              <mxPoint x="-306" y="520" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="opencv positie&lt;br&gt;bepaling van&amp;nbsp;&lt;br&gt;Robotarm" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-15">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-250" y="360" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="positiebepaling middels sensor" tags="Meten RTOS" id="G7wLqP7Of3WmWwOTWTlh-16">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-80" y="270" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="hall sensor" tags="Meten Sensoren RTOS" id="G7wLqP7Of3WmWwOTWTlh-18">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-40" y="160" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten RTOS" id="G7wLqP7Of3WmWwOTWTlh-19">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-18" target="G7wLqP7Of3WmWwOTWTlh-16" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-3" y="520" as="sourcePoint" />
+              <mxPoint x="-17" y="400" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="IR proctocol&lt;br&gt;van STD implementeren" tags="STDs Wireless RTOS" id="G7wLqP7Of3WmWwOTWTlh-20">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="100" y="230" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Wireless RTOS" id="G7wLqP7Of3WmWwOTWTlh-22">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-17" target="G7wLqP7Of3WmWwOTWTlh-20" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="486" y="290" as="sourcePoint" />
+              <mxPoint x="218" y="108" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Actuator" tags="Besturen Actuatoren RTOS" id="G7wLqP7Of3WmWwOTWTlh-23">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="420" y="200" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="(Stappen-)motor" tags="Besturen Actuatoren" id="G7wLqP7Of3WmWwOTWTlh-25">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="380" y="60" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Actuatoren" id="G7wLqP7Of3WmWwOTWTlh-28">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-23" target="G7wLqP7Of3WmWwOTWTlh-25" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="108" y="347" as="sourcePoint" />
+              <mxPoint x="64" y="357" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Servo" tags="Besturen Actuatoren" id="G7wLqP7Of3WmWwOTWTlh-31">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="260" y="310" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Actuatoren" id="G7wLqP7Of3WmWwOTWTlh-32">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-23" target="G7wLqP7Of3WmWwOTWTlh-31" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="251" y="356" as="sourcePoint" />
+              <mxPoint x="188" y="324" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="positiebepaling middels feedforward aansturing" tags="Besturen Meten" id="G7wLqP7Of3WmWwOTWTlh-33">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="210" y="410" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Electronica" id="G7wLqP7Of3WmWwOTWTlh-34">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-31" target="G7wLqP7Of3WmWwOTWTlh-33" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="248" y="366" as="sourcePoint" />
+              <mxPoint x="192" y="404" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Electronica" id="G7wLqP7Of3WmWwOTWTlh-35">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-28" target="G7wLqP7Of3WmWwOTWTlh-33" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="136" y="448" as="sourcePoint" />
+              <mxPoint x="98" y="483" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-36">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-1" target="G7wLqP7Of3WmWwOTWTlh-11" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-345" y="695" as="sourcePoint" />
+              <mxPoint x="-306" y="520" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="positie&lt;br&gt;bepaling van&amp;nbsp;&lt;br&gt;Robotarm" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-37">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-85" y="370" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-38">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-16" target="G7wLqP7Of3WmWwOTWTlh-37" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-59" y="238" as="sourcePoint" />
+              <mxPoint x="-21" y="292" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-39">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-15" target="G7wLqP7Of3WmWwOTWTlh-37" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-3" y="350" as="sourcePoint" />
+              <mxPoint x="-7" y="380" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-40">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-33" target="G7wLqP7Of3WmWwOTWTlh-37" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-92" y="442" as="sourcePoint" />
+              <mxPoint x="-58" y="428" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="opencv positie&lt;br&gt;bepaling middels&amp;nbsp;&lt;br&gt;AI en afwijkende&lt;br&gt;kleur van&lt;br&gt;robotarm" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-41">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-270" y="450" width="120" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-42">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-41" target="G7wLqP7Of3WmWwOTWTlh-15" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-161" y="432" as="sourcePoint" />
+              <mxPoint x="-179" y="408" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Simulatie van&lt;br&gt;optimale (feed-forward) sturing" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-43">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-20" y="610" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Digital Twin" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-44">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-90" y="830" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Ook ontwikkelen&lt;br&gt;zonder de robot" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-45">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-250" y="880" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-46">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-45" target="G7wLqP7Of3WmWwOTWTlh-44" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="51" y="502" as="sourcePoint" />
+              <mxPoint x="9" y="438" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="In Digital Twin&lt;br&gt;Space kan gemeten&lt;br&gt;Object worden&lt;br&gt;geprojecteerd&lt;br&gt;voor actie-analyse&lt;br&gt;(hoe vastpakken)" tags="AI Meten" id="G7wLqP7Of3WmWwOTWTlh-48">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-320" y="680" width="150" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="G7wLqP7Of3WmWwOTWTlh-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-48" target="G7wLqP7Of3WmWwOTWTlh-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22" y="775" as="sourcePoint" />
+            <mxPoint x="58" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" tags="AI Meten" id="G7wLqP7Of3WmWwOTWTlh-50">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-1" target="G7wLqP7Of3WmWwOTWTlh-48" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-36" y="674" as="sourcePoint" />
+              <mxPoint x="41" y="703" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Liever niet met Maya,&lt;br&gt;maar met Fusion 360&lt;br&gt;gemaakt" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-51">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-90" y="950" width="150" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-52">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-51" target="G7wLqP7Of3WmWwOTWTlh-44" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="28" y="830" as="sourcePoint" />
+              <mxPoint x="52" y="750" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="In Unity3d" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-53">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="140" y="910" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-54">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-53" target="G7wLqP7Of3WmWwOTWTlh-44" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="28" y="830" as="sourcePoint" />
+              <mxPoint x="52" y="750" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Simuleren" id="G7wLqP7Of3WmWwOTWTlh-55">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-53" target="G7wLqP7Of3WmWwOTWTlh-51" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="180" y="727" as="sourcePoint" />
+              <mxPoint x="120" y="724" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Op PC&lt;br&gt;of Raspbery&lt;br&gt;PI" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-56">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="350" y="730" width="90" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Via Micrcontroller,&lt;br&gt;ESP32" tags="Besturen RTOS" id="G7wLqP7Of3WmWwOTWTlh-57">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="90" y="310" width="90" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Actuatoren RTOS" id="G7wLqP7Of3WmWwOTWTlh-59">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-57" target="G7wLqP7Of3WmWwOTWTlh-23" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="127" y="419" as="sourcePoint" />
+              <mxPoint x="85" y="501" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten RTOS" id="G7wLqP7Of3WmWwOTWTlh-60">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-57" target="G7wLqP7Of3WmWwOTWTlh-16" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="177" y="600" as="sourcePoint" />
+              <mxPoint x="197" y="430" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="G7wLqP7Of3WmWwOTWTlh-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-56" target="G7wLqP7Of3WmWwOTWTlh-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="154" y="828" as="sourcePoint" />
+            <mxPoint x="160" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="TOF-afstandsmeter" tags="Meten Sensoren RTOS" id="G7wLqP7Of3WmWwOTWTlh-62">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-170" y="120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten RTOS" id="G7wLqP7Of3WmWwOTWTlh-63">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-62" target="G7wLqP7Of3WmWwOTWTlh-16" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-25" y="220" as="sourcePoint" />
+              <mxPoint x="-15" y="280" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Filter" tags="Meten RTOS" id="G7wLqP7Of3WmWwOTWTlh-64">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-190" y="220" width="70" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten RTOS" id="G7wLqP7Of3WmWwOTWTlh-65">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-64" target="G7wLqP7Of3WmWwOTWTlh-16" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-128" y="215" as="sourcePoint" />
+              <mxPoint x="-42" y="285" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pose Grid&lt;br&gt;Interpolatie&lt;br&gt;(floating point&lt;br&gt;intensief)" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-66">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-110" y="730" width="120" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="RTOS" id="G7wLqP7Of3WmWwOTWTlh-67">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;jumpStyle=arc;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-106" target="G7wLqP7Of3WmWwOTWTlh-57" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="210" y="540" as="sourcePoint" />
+              <mxPoint x="187" y="791" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-68">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-66" target="G7wLqP7Of3WmWwOTWTlh-75" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="193" y="701" as="sourcePoint" />
+              <mxPoint x="244" y="725" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Regeling" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-69">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="210" y="710" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Restant PID&lt;br&gt;sturing" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-71">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="150" y="590" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-72">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-71" target="G7wLqP7Of3WmWwOTWTlh-69" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="24" y="634" as="sourcePoint" />
+              <mxPoint x="49" y="654" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="G7wLqP7Of3WmWwOTWTlh-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-69" target="G7wLqP7Of3WmWwOTWTlh-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="720" as="sourcePoint" />
+            <mxPoint x="-14" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Inverse&lt;br&gt;Kinematics" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-75">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="80" y="710" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-76">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-43" target="G7wLqP7Of3WmWwOTWTlh-69" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-10" y="621" as="sourcePoint" />
+              <mxPoint x="44" y="656" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-77">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-75" target="G7wLqP7Of3WmWwOTWTlh-69" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="115" y="704" as="sourcePoint" />
+              <mxPoint x="141" y="723" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="G7wLqP7Of3WmWwOTWTlh-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;jumpStyle=arc;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-22" target="G7wLqP7Of3WmWwOTWTlh-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="444" as="sourcePoint" />
+            <mxPoint x="330" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="(Deels) direct&amp;nbsp;&lt;br&gt;te berekenen" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-78">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="10" y="770" width="90" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-79">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-78" target="G7wLqP7Of3WmWwOTWTlh-69" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="189" y="734" as="sourcePoint" />
+              <mxPoint x="221" y="736" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Voeden Actuatoren, Dirty Grounds" tags="Electronica" id="G7wLqP7Of3WmWwOTWTlh-81">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="590" y="280" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="TSOP IR&lt;br&gt;Decoder" tags="Sensoren Wireless RTOS" id="G7wLqP7Of3WmWwOTWTlh-82">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="270" y="100" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Wireless RTOS" id="G7wLqP7Of3WmWwOTWTlh-83">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-82" target="w8_XJJo5FJDeRQCqRYtE-17" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="218" y="131" as="sourcePoint" />
+              <mxPoint x="228" y="118" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Beveiliging&lt;br&gt;(tegen beweging&lt;br&gt;in illegaal gebied:&lt;br&gt;Tegen de lopende&lt;br&gt;band etc." tags="Besturen Meten" id="G7wLqP7Of3WmWwOTWTlh-84">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-130" y="450" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-85">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-37" target="G7wLqP7Of3WmWwOTWTlh-84" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-10" y="340" as="sourcePoint" />
+              <mxPoint x="-10" y="380" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Middels 1000 graden&lt;br&gt;pots en lijnen onder&lt;br&gt;spanning" tags="Meten Sensoren" id="G7wLqP7Of3WmWwOTWTlh-86">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-250" y="280" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-87">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-86" target="G7wLqP7Of3WmWwOTWTlh-37" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-83" y="189" as="sourcePoint" />
+              <mxPoint x="-27" y="281" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Neuraal netwerk:&lt;br&gt;classificator" tags="AI Meten" id="G7wLqP7Of3WmWwOTWTlh-88">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-590" y="400" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="AI Meten" id="G7wLqP7Of3WmWwOTWTlh-89">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-88" target="G7wLqP7Of3WmWwOTWTlh-1" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-422" y="563" as="sourcePoint" />
+              <mxPoint x="-362" y="515" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-90">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-88" target="G7wLqP7Of3WmWwOTWTlh-3" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-440" y="425" as="sourcePoint" />
+              <mxPoint x="-369" y="467" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-91">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-3" target="G7wLqP7Of3WmWwOTWTlh-62" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-510" y="410" as="sourcePoint" />
+              <mxPoint x="-470" y="310" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Lineaire motor" tags="Besturen Actuatoren" id="G7wLqP7Of3WmWwOTWTlh-92">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="490" y="120" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Actuatoren" id="G7wLqP7Of3WmWwOTWTlh-94">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-92" target="G7wLqP7Of3WmWwOTWTlh-23" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="179" y="428" as="sourcePoint" />
+              <mxPoint x="124" y="492" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="vuforia positie&lt;br&gt;bepaling middels&amp;nbsp;&lt;br&gt;&quot;QR&quot;" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-97">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-470" y="280" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="OpenCV Meten" id="G7wLqP7Of3WmWwOTWTlh-98">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-1" target="G7wLqP7Of3WmWwOTWTlh-97" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-325" y="460" as="sourcePoint" />
+              <mxPoint x="-315" y="400" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Reenforcement&lt;br&gt;learning" tags="Simuleren AI" id="G7wLqP7Of3WmWwOTWTlh-99">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;strokeColor=#B3B3B3;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="110" y="810" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-100">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-99" target="G7wLqP7Of3WmWwOTWTlh-69" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="126" y="775" as="sourcePoint" />
+              <mxPoint x="226" y="750" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-101">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-99" target="G7wLqP7Of3WmWwOTWTlh-44" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="211" y="812" as="sourcePoint" />
+              <mxPoint x="251" y="759" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Heuristical&lt;br&gt;Inverse&lt;br&gt;Kinematics" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-102">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-70" y="660" width="90" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-103">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-102" target="G7wLqP7Of3WmWwOTWTlh-75" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="19" y="750" as="sourcePoint" />
+              <mxPoint x="91" y="744" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Moving Setpoint" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-104">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry y="560" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-105">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-104" target="G7wLqP7Of3WmWwOTWTlh-69" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="217" y="659" as="sourcePoint" />
+              <mxPoint x="254" y="721" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="PC proxy" tags="Besturen Wireless RTOS" id="G7wLqP7Of3WmWwOTWTlh-106">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="65" y="490" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Microcontroller&lt;br&gt;Proxy" tags="Besturen Wireless" id="G7wLqP7Of3WmWwOTWTlh-107">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="290" y="620" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="G7wLqP7Of3WmWwOTWTlh-109" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;jumpStyle=arc;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-56" target="G7wLqP7Of3WmWwOTWTlh-107" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316" y="641" as="sourcePoint" />
+            <mxPoint x="251" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" tags="Besturen" id="G7wLqP7Of3WmWwOTWTlh-111">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="w8_XJJo5FJDeRQCqRYtE-25" target="G7wLqP7Of3WmWwOTWTlh-104" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="236" y="436" as="sourcePoint" />
+              <mxPoint x="138" y="497" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="3d/twin-camera" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-113">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-550" y="170" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="G7wLqP7Of3WmWwOTWTlh-114">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-3" target="G7wLqP7Of3WmWwOTWTlh-113" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-523" y="410" as="sourcePoint" />
+              <mxPoint x="-537" y="310" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="bluetooth" tags="Besturen Wireless" id="jC3LrD7YWzkxzBUK_PPc-2">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="250" y="510" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten Wireless" id="jC3LrD7YWzkxzBUK_PPc-3">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="jC3LrD7YWzkxzBUK_PPc-2" target="G7wLqP7Of3WmWwOTWTlh-106" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="202" y="442" as="sourcePoint" />
+              <mxPoint x="48" y="419" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten Wireless" id="jC3LrD7YWzkxzBUK_PPc-4">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-107" target="jC3LrD7YWzkxzBUK_PPc-2" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="275" y="527" as="sourcePoint" />
+              <mxPoint x="208" y="507" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Wireless RTOS" id="jC3LrD7YWzkxzBUK_PPc-6">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-20" target="G7wLqP7Of3WmWwOTWTlh-57" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="218" y="131" as="sourcePoint" />
+              <mxPoint x="210" y="230" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="RTOS" tags="RTOS" id="wkqdVpf_7ksk5eVzLJeO-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="240" y="240" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen Actuatoren RTOS" id="wkqdVpf_7ksk5eVzLJeO-3">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="wkqdVpf_7ksk5eVzLJeO-1" target="G7wLqP7Of3WmWwOTWTlh-57" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="321" y="240" as="sourcePoint" />
+              <mxPoint x="179" y="480" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Geluidsanalyse" tags="Electronica Meten" id="wkqdVpf_7ksk5eVzLJeO-5">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-290" y="560" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Filter" tags="Electronica Meten" id="wkqdVpf_7ksk5eVzLJeO-6">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-245" y="605" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AI" tags="Meten AI" id="wkqdVpf_7ksk5eVzLJeO-7">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-175" y="600" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="wkqdVpf_7ksk5eVzLJeO-8">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-84" target="wkqdVpf_7ksk5eVzLJeO-6" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-11" y="340" as="sourcePoint" />
+              <mxPoint x="-14" y="380" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="wkqdVpf_7ksk5eVzLJeO-9">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-84" target="wkqdVpf_7ksk5eVzLJeO-5" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-79" y="545" as="sourcePoint" />
+              <mxPoint x="-160" y="642" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="wkqdVpf_7ksk5eVzLJeO-10">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-84" target="wkqdVpf_7ksk5eVzLJeO-7" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-99" y="536" as="sourcePoint" />
+              <mxPoint x="-160" y="573" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Druksensor&lt;br&gt;(velostat)" tags="Electronica Meten" id="wkqdVpf_7ksk5eVzLJeO-11">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" parent="w8_XJJo5FJDeRQCqRYtE-16" vertex="1">
+            <mxGeometry x="-150" y="650" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Meten" id="wkqdVpf_7ksk5eVzLJeO-12">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="w8_XJJo5FJDeRQCqRYtE-16" source="G7wLqP7Of3WmWwOTWTlh-84" target="wkqdVpf_7ksk5eVzLJeO-11" edge="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="-73" y="547" as="sourcePoint" />
+              <mxPoint x="-117" y="611" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="ProjectBesturing" id="cX5zlUsBwB7K6OId3NUU">
+    <mxGraphModel dx="2046" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="f7G8o08RWfXEjahvK8xv-0" />
+        <mxCell id="f7G8o08RWfXEjahvK8xv-1" visible="0" parent="f7G8o08RWfXEjahvK8xv-0" />
+        <mxCell id="f7G8o08RWfXEjahvK8xv-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;margin-left:10px;text-align:left;&quot;&gt;&lt;b&gt;Mindmap&lt;/b&gt;&amp;nbsp;Volledig los&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;labelX=135.67;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-1">
+          <mxGeometry x="120" y="110" width="660" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="f7G8o08RWfXEjahvK8xv-3" value="Diagram" parent="f7G8o08RWfXEjahvK8xv-0" />
+        <UserObject label="(Stappen-)motor" tags="Actuatoren Besturen" id="2gERgb0JWZ_qQbSdo9KN-0">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="380" y="510" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Via Server&lt;br&gt;op Raspbery&lt;br&gt;PI" tags="Besturen Wireless" id="2gERgb0JWZ_qQbSdo9KN-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="270" y="320" width="90" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Beheer" tags="Besturen" id="2gERgb0JWZ_qQbSdo9KN-2">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="335" y="420" width="90" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="2gERgb0JWZ_qQbSdo9KN-4">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="2gERgb0JWZ_qQbSdo9KN-2" target="2gERgb0JWZ_qQbSdo9KN-1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="176" y="288" as="sourcePoint" />
+              <mxPoint x="232" y="301" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Lopende&lt;br&gt;band" tags="Besturen" id="30ANBHHRPXSRq-d9uTYN-0">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="370" y="590" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="30ANBHHRPXSRq-d9uTYN-1">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="30ANBHHRPXSRq-d9uTYN-0" target="2gERgb0JWZ_qQbSdo9KN-0">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="408" y="458" as="sourcePoint" />
+              <mxPoint x="382" y="502" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="30ANBHHRPXSRq-d9uTYN-2">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="2gERgb0JWZ_qQbSdo9KN-2" target="2gERgb0JWZ_qQbSdo9KN-0">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="408" y="458" as="sourcePoint" />
+              <mxPoint x="382" y="502" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Server&lt;br&gt;Robot Control&lt;br&gt;Raspberry PI" tags="Besturen Wireless" id="30ANBHHRPXSRq-d9uTYN-3">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="540" y="310" width="90" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Instellen, &lt;br&gt;aan/uit zetten" tags="Besturen Wireless" id="30ANBHHRPXSRq-d9uTYN-4">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="410" y="360" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="Besturen" id="30ANBHHRPXSRq-d9uTYN-5">
+          <mxCell style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="2gERgb0JWZ_qQbSdo9KN-2" target="30ANBHHRPXSRq-d9uTYN-4">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="415" y="497" as="sourcePoint" />
+              <mxPoint x="432" y="521" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="30ANBHHRPXSRq-d9uTYN-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="30ANBHHRPXSRq-d9uTYN-4" target="30ANBHHRPXSRq-d9uTYN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="448" as="sourcePoint" />
+            <mxPoint x="452" y="427" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Status&lt;br&gt;Rapport" tags="Besturen" id="30ANBHHRPXSRq-d9uTYN-7">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="f7G8o08RWfXEjahvK8xv-3">
+            <mxGeometry x="450" y="430" width="90" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="30ANBHHRPXSRq-d9uTYN-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="30ANBHHRPXSRq-d9uTYN-7" target="30ANBHHRPXSRq-d9uTYN-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="410" as="sourcePoint" />
+            <mxPoint x="540" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30ANBHHRPXSRq-d9uTYN-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="f7G8o08RWfXEjahvK8xv-3" source="2gERgb0JWZ_qQbSdo9KN-2" target="30ANBHHRPXSRq-d9uTYN-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="531" y="444" as="sourcePoint" />
+            <mxPoint x="552" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
