@@ -72,9 +72,25 @@ Verderop zie je sheets waarbij de eindtermen verder van detail voorzien zijn.
 ### Beroepstaken
 
 We verdelen ons curriculum over Semesters S2, S3 en S4. Voor elk van de semesters kunnen we ons afvragen wat we willen dat de student in het bedrijfsleven concreet zou moeten kunnen doen na het volgen van het betreffende semester. 
-Dus niet wat hij begrijpt en weet, maar meer wat hij (daarmee) kan doen. 
+Dus niet wat hij begrijpt en weet, maar meer wat hij (daarmee) kan doen. Het zijn een handvol top-level veel voorkomende scenarios.
 
 Meer daarover bij de bespreking verderop van de eerdere Workshop op weg naar HBO ICT.
+
+### Leeruitkomsten
+
+Er is een soort hierarchy van generiek naar gedetailleerder. Voor een semeseter staan boven aan de keten de beroepstaken. Die worden vervolgens geherformuleerd en zo nodig opgesplitst, dat duidelijk wordt waarop de student bij programmatisch toetsen getoetst moet gaan worden.
+
+### Leerdoelen
+
+Elke leeruitkomst is gekoppeld aan een of meerdere leerdoelen. Leerdoelen geven de gewenste resultaten weer, gekoppeld aan specifieke onderdelen en/of lesstof. Dus weer een trapje gedetailleerder. Bij het programmatisch toetsen kan het zijn dat een student niet goed scoort op een bepaald leerdoel, maar door voldoende kwaliteit portfolio op andere leerdoelen die gekoppeld zijn aan de betreffende leeruitkomst aan te dragen kan hij nog steeds slagen.
+
+### Voorbeeld van een prototype Beroepstaak Leeruitkomst Leerdoel Hierarchy voor S2
+
+Onderstaande geeft een indruk van hoe een en ander samenhangt. Van generiek naar gedetailleerder. Het voordeel om zo generiek mogelijk te beginnen geeft meer mogelijkheden om flexibel dingen aan te passen zonder ACO (of was het iets anders? Arno Help :-) ) te hoeven updaten. 
+
+![](Prototype%20S2.png)
+
+NB: bovenstaande protoype was maar een voorzet/suggestie (net als dit document). Uiteindelijk is er wat anders uitgekomen (zie o.a. de S2 documentatie).
 
 ## Resultaten verdere discussies t.a.v S3
 
@@ -246,22 +262,30 @@ Mijn gedachten daarbij:
 
 ### Mogelijke opsplitsing van de onderwerpen over S3 en S4 met minimale dependencies en voorbeelden van bijbehorende projecten
 
-### Semester 3
+### Semester 3 Real Time Advanced Coding
 
 - Wat Python
 - Basisprincipes van Networking, Server, Database, Docker,
   REST, TCP/IP, HTML, CSS
 - Software architectuur: van UseCase Diagram tot Code
+- Algoritmen, datastructuren, design patterns.
 - Multithreading - RTOS
 - Frontend - Javascript
 
-### Semester 4
+Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk component en software architectuur.
+
+### Semester 4 Control Technology
 
 - System Engineering (met Waterval) & Software Architectuur
-- OO & Design Patterns
-- Algoritmen en Datastructuren
+- Wat electrotechniek
 - Besturingstechniek & Integratie van Actuatoren en Sensoren
 - Digitale techniek en PLC Programmeren
+  (Dat omvat ook Algoritmen en Datastructuren)
+
+PLC-programmeren is iets wat volgens mij nog niet in onze team-skills zit. Maar als dat het enige nieuwe domein is, moet dat er wel ingefietst kunnen worden.
+Ik denk aan wat basics in Ladder Logic een focus op zg "Structured Text PLC Programming", omdat laatstgenoemde mooi lijkt aan te sluiten voor studenten die C++ kunnen (zie [Top 5 Most Popular Types of PLC Programming Languages](https://www.solisplc.com/blog/plc-programming-languages)).
+
+NB: bij de bovenstaande partitionering zijn S3 en S4 min of meer omgewisseld ten opzichte van [Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma TI 2026.pptx). Op zich is dat voordelig. Dan is er wat meer tijd om het nieuwe PLC deel voor te bereiden. Verder maakt het op termijn niet uit, omdat S3 en S4 toch technisch inhoudelijk relatief weinig overlappen en uitwisselbaar zijn.
 
 ### S3 met project
 
@@ -269,6 +293,7 @@ Mijn gedachten daarbij:
 - Basisprincipes van Networking, Server, Database, Docker,
   REST, TCP/IP, HTML, CSS
 - Software architectuur: van UseCase Diagram tot Code
+- Algoritmen, datastructuren, design patterns.
 - Multithreading - RTOS
 - Frontend - Javascript
 
@@ -290,7 +315,7 @@ Mijn gedachten daarbij:
   - **Doel**: Ontwerpen en ontwikkelen van een geïntegreerde softwareoplossing voor een smart laadstation voor elektrische voertuigen. Dit project zou gericht zijn op het integreren van embedded systemen (met focus op C en Python), remote monitoring, en power management.
   - **Details**: Studenten ontwikkelen software voor embedded systemen die communiceren met een centrale server voor statusupdates en controle. Het project omvat aspecten van netwerkprotocollen, databasebeheer en mogelijk een eenvoudige frontend-interface voor monitoring en beheer.
   
-  Op zich zit alles er in, maar ik mis sexyness - mogelijkheden voor de ambitieuzen om echt los te gaan.
+  Op zich zit alles er in, maar ik mis wat sexyness - mogelijkheden voor de ambitieuzen om echt los te gaan.
 
 - **Een warmtepomp-systeem**
   Dit zou ook kunnen, maar heeft dezelfde bezwaren, voor zover ik nu kan bedenken.
@@ -300,6 +325,7 @@ Mijn gedachten daarbij:
 - System Engineering (met Waterval) & Software Architectuur
 - OO & Design Patterns
 - Algoritmen en Datastructuren
+- Wat electrotechniek
 - Besturingstechniek & Integratie van Actuatoren en Sensoren
 - Digitale techniek en PLC Programmeren
 
@@ -307,5 +333,40 @@ Mijn gedachten daarbij:
 
 - (idee van ChatGPT4)
   Een geavanceerd besturingssysteem dat toepasbaar zou zijn in industriële automatiseringsscenario's, zoals die gevonden bij bedrijven als Alfen, Krohne, en SEW-Eurodrive. De focus ligt op het integreren van PLC-programmering met moderne software-engineeringpraktijken en system engineering-concepten.
+- Een PLC-controlled warmtepompsysteem
 
-Bedenking: Ik kan moeilijk overzien/voorzien hoe Algortimen, DataStructuren en Design Patterns daarbij effectief aan bod komen.
+# Agenda voor 27 nov 2023
+
+Desgevraag bij deze een voorstel voor de agenda van 27 nov 2023. Mocht bijvoorbeeld Arno daar andere ideëen over hebben, dan kunnen we er altijd nog van afwijken.
+
+Wat we bijvoorbeeld zouden kunnen doen is:
+
+- Ik leid jullie door de highlights van dit document (10 min max)
+
+- Jullie bekijken het zelf ook nog (20 min)
+
+- De wat mij betreft belangrijkste topic van vandaag:
+  Een discussie over wat we vinden dat een Technisch informaticus minimaal moet kunnen (dus na S2 ook S3 en S4 te hebben doorlopen), kijken of we daar gemeenschappelijk een mening en draagvlak voor kunnen vinden.
+  
+  Een suggestie op basis van het vacature onderzoek daarvoor is bovenstaand voor S3 en S4 gegeven. De grootste veranderingen met ons huidige S3/S4 zijn:
+  
+  - Geen vaste aandacht (meer) voor:
+    - AI
+    - Computer Vision
+    - Het schrijven van een Compiler of Interpreter
+    - Assembly programmeren
+    - Advanced Alg/Data (zoals Gomoku)
+  - Wel/meer vaste aandacht voor:
+    - Networking: frontend, backend, database, docker
+    - PLC programming
+  
+  De TI-eindterm-details zouden daarvoor geupdate moeten worden: ze coveren nog niet helemaal het netwerking deel. Ik zie er wel MQTT en REST genoemd, maar niet frontend-backend, database, PLC en Docker.
+
+- Een discussie over de beroepstaken van S3 en S4
+  Die van S2 lijken een goed uitgangspunt. Moeten die misschien wat anders om niveau 2 erin te krijgen? Of komt dat pas bij de leeruitkomsten?
+
+- Een discussie over de Leeruitkomsten van S3 en S4
+  In mijn beleving zijn die grotendeels hetzelfde als die van S2, en kunnen we het woord Iot-oplossing door Control-oplossing of RealTime-oplossing vervangen.
+  Toch moeten er denk ik op andere manier niveau 2 elementen ingefietst worden.
+  
+  Eigenlijk zouden we eerst zo'n 2d HBO-I matrix voor S2, S3 en S4 samen moeten hebben, denk ik. Dan kijken wat S2 afdekt en zorgen dat S3 en S4 de overige vakjes afdekken. @Huib: is die matrix er al? of gaan we die nu juist bepalen?
