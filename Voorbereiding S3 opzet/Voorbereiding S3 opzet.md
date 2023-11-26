@@ -1,5 +1,13 @@
 # Voorbereiding S3 opzet
 
+## Opbouw van dit document
+
+- Om duidelijk te maken waar we heen willen worden eerst de doelen zijn voor de S3 Opzet besproken.
+
+- Om duidelijk te maken van welke uitgangspunten we daarbij uit kunnen gaan, worden die aansluitend toegelicht.
+
+- Vervolgens wordt een agenda / plan van aanpak voor de meeting van 27 nov 2023 gegeven, zodat we dan hopelijk effectief van onze tijd gebruik kunnen maken.
+
 ## Doelen
 
 - Bepalen wat de Technish Informaticus die de HU verlaat minimaal moet kunnen na S3 en S4.
@@ -14,9 +22,9 @@ Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso mod
 
 - [Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma TI 2026.pptx)
 - Resultaten verdere discussies t.a.v S3
-- Invloed van Kennis, kunde en lesmateriaal dat het huidige TI-team heeft.
 - [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm met bedrijven 2022_02_17.pdf)
 - [Vacature-onderzoek_2023_11_24](../Bronnen/VacatureOnderzoek_2023_11_24/VacatureOnderzoek_2023_11_24.md)
+- [Workshop Op weg naar HBO ICT (ihb S2, 5 sept 2023)](../Bronnen/Workshop Op weg naar HBO ICT.pdf)
 
 ## Toetsprogramma TI_2026.ppt (15 juni 2023)
 
@@ -44,26 +52,48 @@ In het toetsprogramma heeft Huib dat gedemonstreerd bij S2:
 
 - Langs de x-as staan van links naar rechts de **ICT-activiteiten uit de lifecycle** van informatiesystemen: **Analyseren**, **Adviseren**, **Ontwerpen**, **Realiseren**, **Beheren**
 
-- De ingevulde getalletjes zeggen iets over het **niveau** waarop. Het plaatje van de  hbo-i matrix bovenstaand laat 3 mogelijke niveaus zien. 
-
-- - Niveau 1: Bijvoorbeeld software schrijven voor een eenvoudig gegeven computersysteem, voorzien van sensoren en actuatoren.
-  - Niveau 2: Bijvoorbeeld Inrichten van eenvoudig computersysteem en via software de koppelingen met hardware componenten testen. Of het implementeren en testen van een protocol.
-  - Niveau 3: Bijvoorbeeld Realiseren van een compleet computersysteem inclusief netwerk, hardware en
-    systeemsoftware.  
-    of  
-    Opstellen en uitvoeren van een acceptatieprocedure, bijv in een virtuele
-    omgeving, inclusief aspecten als timing, resourcegebruik en performance.
+- De ingevulde getalletjes zeggen iets over het **niveau** waarop. Een definitie van die niveaus heb ik niet gevonden. Onderstaand zijn wel voorbeelden van de niveaus gegeven m.b.t. de architectuurlaag Hardware Interfacing:
+  
+  - **Niveau 1**: Bijvoorbeeld software schrijven voor een eenvoudig gegeven computersysteem, voorzien van sensoren en actuatoren.
+  - **Niveau 2**: Bijvoorbeeld Inrichten van eenvoudig computersysteem en via software de koppelingen met hardware componenten testen. Of het implementeren en testen van een protocol.  
+  - **Niveau 3**: Bijvoorbeeld Realiseren van een compleet computersysteem inclusief netwerk, hardware en systeemsoftware. Of opstellen en uitvoeren van een acceptatieprocedure, bijv in een virtuele omgeving, inclusief aspecten als timing, resourcegebruik en performance.
+  - **Niveau 4**: Bijvoorbeeld Realiseren van een compleet computersysteem waarbij gebruik gemaakt wordt van hardware synthese (vhdl) of artificial intelligence.
 
 S2 is het eerste semester. Vandaar dat het niet verwonderlijk is dat we daar alleen enkele competenties op niveau 1 tegenkomen. In S3 en S4 dekken we in ieder geval niveau 2 af. Aan het eind van de studie delen van niveau 3.
 
 ### Eindtermen TI
 
-Op de eerste sheet van de powerpoint zie je de zg. eindtermen voor TI. Een eindterm beschrijft in algemene bewoordingen wat er van een technisch informaticus na afstuderen verwacht mag worden. De eindtermen zijn verdeeld in 5 technish inhoudelijke eindtermen en 4 over professional skills.
+Op de eerste sheet van de powerpoint zie je de zg. eindtermen voor TI. Een eindterm beschrijft in algemene bewoordingen wat er van een technisch informaticus na afstuderen minimaal verwacht mag worden. De eindtermen zijn verdeeld in 5 technish inhoudelijke eindtermen en 4 over professional skills.
 
 Verderop zie je sheets waarbij de eindtermen verder van detail voorzien zijn.
-Volgens mij is het een goed idee om straks te beginnen om die details te updaten, mede naar aanleiding van het vacature-onderzoek verderop.
 
+*Volgens mij is het een goed idee om straks te beginnen om die details te updaten, mede naar aanleiding van het vacature-onderzoek verderop.*
 
+### Beroepstaken
+
+We verdelen ons curriculum over Semesters S2, S3 en S4. Voor elk van de semesters kunnen we ons afvragen wat we willen dat de student in het bedrijfsleven concreet zou moeten kunnen doen na het volgen van het betreffende semester. 
+Dus niet wat hij begrijpt en weet, maar meer wat hij (daarmee) kan doen. 
+
+Meer daarover bij de bespreking verderop van de eerdere Workshop op weg naar HBO ICT.
+
+## Resultaten verdere discussies t.a.v S3
+
+Binnen de S2 groep is al een en ander besproken t.a.v de voorbereiding van S3.
+
+Achtereenvolgens
+
+- De wens om S3 en S4 wederzijds onafhankelijk te maken.
+  - Reden: dan kun je makkelijker de studenten verdelen / flexibel omgaan met fluctuaties in de aantallen.
+  - Aandachtspunt: als een student S3 na S4 volgt, verwacht je in S3 hogere eindniveaus, en andersom.
+    Vooralsnog lijkt dat geen onoverkomelijk obstakel.
+- Voor de beeldvorming: suggesties voor een project in S3 (Control Technology)
+  - Gesuggereerd werd: Warmtepomp-systeem
+    Persoonlijk leek me dat wat karig voor wat betreft de verschillende mogelijkheden / diversificatie tussen de teams (en voor ambitieuze studenten)
+- Verder werd me aanbevolen om te kijken of er iets is waar ik persoonlijk warm van wordt. Dat leidde tot mijn brainstorm sessie t.a.v. lopende band robot (SDG recycling, voedsel): [MindMapBeltRobot](./MindMapBeltRobot.drawio.html)
+- Het aantal vaardigheden dat daarvoor nodig lijkt, leek wat veel.
+  Daarop kreeg ik de opdracht om nog eens te verdiepen in wat echt de minimale vaardigheden zijn waarvan we nu echt willen wat een TI afgestudeerde die kan, en op basis daarvan nog eens kijken welke projecten dan geschikt zijn.
+- Dat heeft geleid tot het nog eens bestuderen van onderstaande Brainstorm met bedrijven en een inventarisatie te maken van welke vaardigheden gevraagd worden bij vacatures voor "Technische Informatica" (zie verderop).
+- Verder heeft het geleid tot de oproep van de meeting op 27 nov 2023, waarbij we proberen een stap te maken om de neuzen dezelfde kant op te krijgen t.a.v de ontwikkeling van S3 en S4.
 
 ## Samenvatting van Brainstorm met bedrijven (17 feb 2022)
 
@@ -80,20 +110,6 @@ Onderstaand is een samenvatting te vinden van de volgende bron:
 8. Assembler Programmeren: Als waardevolle toevoeging aan het curriculum.
 9. Hardware Kennis: Begrip van en ervaring met hardware, PLCs.
 10. Interfacing: Basiskennis van interfacing.
-
-### Kennis, kunde en lesmateriaal van huidige TI-team
-
-Kennis, kunde en lesmateriaal van het huidige TI-team zijn een constraint waar rekening mee gehouden zal moeten worden.
-
-Een logisch plan lijkt:
-
-- Eerst vaststellen wat idealiter wenselijk is voor wat betreft vakinhoudelijke baggage voor studenten die S3 resp. S4 doorlopen hebben.
-
-- Vervolgens vaststellen wat daarvan haalbaar is gegeven de genoemde constraint.
-
-- In de loop der jaren stappen zetten / aanpassen richting het ideaal.
-
-- In de praktijk betekent dat dat grosso modo wel makkelijk geschrapt kan worden t.o.v. wat nu wordt aangeboden, maar niet andersom.
 
 ### Inventarisatie van Vacatures
 
