@@ -63,8 +63,6 @@ Op de eerste sheet van de powerpoint zie je de zg. eindtermen voor TI. Een eindt
 
 Verderop zie je sheets waarbij de eindtermen verder van detail voorzien zijn.
 
-
-
 ### Beroepstaken
 
 We verdelen ons curriculum over Semesters S2, S3 en S4. Voor elk van de semesters kunnen we ons afvragen wat we willen dat de student in het bedrijfsleven concreet zou moeten kunnen doen na het volgen van het betreffende semester. 
@@ -333,7 +331,7 @@ NB: bij de bovenstaande partitionering zijn S3 en S4 min of meer omgewisseld ten
 
 # Agenda voor 27 nov 2023
 
-Desgevraag bij deze een voorstel voor de agenda van 27 nov 2023. Mocht bijvoorbeeld Arno daar andere ideëen over hebben, dan kunnen we er altijd nog van afwijken.
+Desgevraagd bij deze een voorstel voor de agenda van 27 nov 2023. Mocht bijvoorbeeld Arno daar andere ideëen over hebben, dan kunnen we er altijd nog van afwijken.
 
 Wat we bijvoorbeeld zouden kunnen doen is:
 
