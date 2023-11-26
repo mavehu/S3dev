@@ -17,9 +17,15 @@
 Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso modo de onderstaande items. In de hiernavolgende paragrafen wordt van elk van de items een beknopte samenvatting of toelichting gegeven.
 
 - [Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma TI 2026.pptx)
+
 - Resultaten verdere discussies t.a.v S3
+
 - [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm met bedrijven 2022_02_17.pdf)
+
 - [Vacature-onderzoek_2023_11_24](../Bronnen/VacatureOnderzoek_2023_11_24/VacatureOnderzoek_2023_11_24.md)
+
+- [Vacatureonderzoek_ASML_2023_11_26](../Bronnen/Vacatureonderzoek_ASML_2023_11_26/Vacatureonderzoek_ASML_2023_11_26.md)
+
 - [Workshop Op weg naar HBO ICT (ihb S2, 5 sept 2023)](../Bronnen/Workshop Op weg naar HBO ICT.pdf)
 
 ## Toetsprogramma TI_2026.ppt (15 juni 2023)
@@ -163,6 +169,8 @@ Onderstaand is een samenvatting te vinden van de volgende bron:
 - Kennis van sensor- en aandrijftechnieken
 - Multithreaded/real-time
 - AI
+
+Het kleinere [Vacatureonderzoek_ASML_2023_11_26](../Bronnen/Vacatureonderzoek_ASML_2023_11_26/Vacatureonderzoek_ASML_2023_11_26.md) komt zo op het oog op veel van de genoemde vaardigheden neer, zij het met een (nog) grotere nadruk op software architectuur, system engineering, algoritmen en datastructuren.
 
 ### Relatie met huidige vakinhoud
 
