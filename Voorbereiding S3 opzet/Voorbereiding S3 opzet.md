@@ -9,9 +9,7 @@
 ## Doelen
 
 - Bepalen wat de Technish Informaticus die de HU verlaat minimaal moet kunnen na S3 en S4.
-
 - Voor S3 en S4 het toplevel treintje opzetten van beroepstaken en leeruitkomsten, opgesplitst in tijd naar a en b. Studenten doen dus S3a S4b of S4a S3b.
-
 - Door dat in een of meer gezamenlijke meetings te doen, zorgen dat er breed draagvlak voor is.
 
 ## Uitgangspunten
@@ -65,7 +63,7 @@ Op de eerste sheet van de powerpoint zie je de zg. eindtermen voor TI. Een eindt
 
 Verderop zie je sheets waarbij de eindtermen verder van detail voorzien zijn.
 
-*Volgens mij is het een goed idee om straks te beginnen om die details te updaten, mede naar aanleiding van het vacature-onderzoek verderop.*
+
 
 ### Beroepstaken
 
