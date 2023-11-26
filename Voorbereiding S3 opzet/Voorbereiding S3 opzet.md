@@ -3,9 +3,7 @@
 ## Opbouw van dit document
 
 - Om duidelijk te maken waar we heen willen worden eerst de doelen zijn voor de S3 Opzet besproken.
-
 - Om duidelijk te maken van welke uitgangspunten we daarbij uit kunnen gaan, worden die aansluitend toegelicht.
-
 - Vervolgens wordt een agenda / plan van aanpak voor de meeting van 27 nov 2023 gegeven, zodat we dan hopelijk effectief van onze tijd gebruik kunnen maken.
 
 ## Doelen
