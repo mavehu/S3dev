@@ -20,7 +20,7 @@ Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso mod
 
 - Resultaten verdere discussies t.a.v S3
 
-- [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm_met_bedrijven 2022_02_17.pdf)
+- [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm_met_bedrijven_2022_02_17.pdf)
 
 - [Vacature-onderzoek_2023_11_24](../Bronnen/VacatureOnderzoek_2023_11_24/VacatureOnderzoek_2023_11_24.md)
 
@@ -31,7 +31,7 @@ Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso mod
 ## Toetsprogramma TI_2026.ppt (15 juni 2023)
 
 Na afloop van onze initiele meetingen t.a.v. de ontwikkeling van semester onderwijs, toen in de eerste plaats gefocust op S2, heeft Huib het volgende document gemaakt, met daarin ook een mogelijke partitionering voor S3 en S4:
-[Toetsprogramma TI_2026.ppt (15 juni 2023)](../Bronnen/Toetsprogramma_TI_2026.ppt)
+[Toetsprogramma TI_2026.pptx (15 juni 2023)](../Bronnen/Toetsprogramma_TI_2026.pptx)
 
 Een samenvatting van dat document lijkt niet nuttig, omdat het al heel beknopt is.
 Wat voor mij persoonlijk nuttig wel lijkt is om t.a.v. dat document te highlighten, is:
