@@ -20,7 +20,7 @@ Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso mod
 
 - Resultaten verdere discussies t.a.v S3
 
-- [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm_met_bedrijven 2022_02_17.pdf)
+- [Document BrainStorm met Bedrijven (17 feb 2022).pdf](../Bronnen/Brainstorm_met_bedrijven_2022_02_17.pdf)
 
 - [Vacature-onderzoek_2023_11_24](../Bronnen/VacatureOnderzoek_2023_11_24/VacatureOnderzoek_2023_11_24.md)
 
