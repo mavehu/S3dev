@@ -78,7 +78,7 @@ Meer daarover bij de bespreking verderop van de eerdere Workshop op weg naar HBO
 
 ### Leeruitkomsten
 
-Er is een soort hierarchy van generiek naar gedetailleerder. Voor een semeseter staan boven aan de keten de beroepstaken. Die worden vervolgens geherformuleerd en zo nodig opgesplitst, dat duidelijk wordt waarop de student bij programmatisch toetsen getoetst moet gaan worden.
+Er is een soort hierarchy van generiek naar gedetailleerder. Voor een semester staan boven aan de keten de beroepstaken. Die worden vervolgens geherformuleerd en zodanig opgesplitst, dat duidelijk wordt waarop de student bij programmatisch toetsen getoetst moet gaan worden.
 
 ### Leerdoelen
 
@@ -355,7 +355,7 @@ Wat we bijvoorbeeld zouden kunnen doen is:
   Een suggestie op basis van het vacature onderzoek daarvoor is bovenstaand voor S3 en S4 gegeven. De grootste veranderingen met ons huidige S3/S4 zijn:
   
   - Geen vaste aandacht (meer) voor:
-    - AI
+    - AIgit
     - Computer Vision
     - Het schrijven van een Compiler of Interpreter
     - Assembly programmeren
