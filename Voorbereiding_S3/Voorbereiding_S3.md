@@ -1,3 +1,7 @@
+<!-- toc -->
+
+<!-- tocstop -->
+
 # Voorbereiding S3
 
 ## Opbouw van dit document
