@@ -6,4 +6,4 @@ Wat documentatie aangaande de ontwikkeling van S3
 
 ## Archief
 
-- [Voorbereiding_S3_kickoff_27_nov_2023](./zzz_Voorbereiding_S3_kickoff_27_nov_2023/Voorbereiding_S3_kickoff_27_nov_2023.md)
+- [S3_kickoff_27_nov_2023](./S3_kickoff_27_nov_2023/Voorbereiding_S3_kickoff_27_nov_2023.md)

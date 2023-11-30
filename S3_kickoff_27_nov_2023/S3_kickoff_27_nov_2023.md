@@ -324,3 +324,26 @@ Wat we bijvoorbeeld zouden kunnen doen is:
   Toch moeten er denk ik op andere manier niveau 2 elementen ingefietst worden.
   
   Eigenlijk zouden we eerst zo'n 2d HBO-I matrix voor S2, S3 en S4 samen moeten hebben, denk ik. Dan kijken wat S2 afdekt en zorgen dat S3 en S4 de overige vakjes afdekken. @Huib: is die matrix er al? of gaan we die nu juist bepalen?
+
+## Uitkomsten van de meeting op 27 nov 2023 en verder napraten bij de S2 meeting van 28 nov 2023
+
+### S4 "Grote Complexe Systemen"
+- Er leek wat weerstand te zijn (Gera, Harm) t.a.v. het idee om S4 te zetten in teken van het nog onontgonnen gebied van PLCs. Tegenargumenten waren:
+  - PLC's zijn niet sexy. Dat helpt niet bij het aantrekken van studenten.
+  - Het vermoeden werd geopperd dat ze PLC's al bij electrotechniek leren programmeren.
+  - Verder zou je kunnen betogen dat wat je aan vacatures vindt op het keywordt "Technische Informatica" niet per se leidend hoeft te zijn. Een student van onze richting kan bijvoorbeeld ook solliciteren op basis van de geleerde vaardigheden (zoals bijvoorbeeld serious gaming).
+- Voor het voorstel van Harm voor S4: een pc-game leidend maken, leek wel algemeen draagvlak. Na wat meer discussie bedachten we dat vooral serious gaming / AR / VR / XR / simulatie interessante candidaten zijn waarbij studenten uitgebreid hun coding vaardigheden (alg, datastruct, design patterns, etc) kunnen oefenen voor grote systemen. **TODO: bedenk hoe igv games System Engineering een plaats te geven: het zou daarvoor aardig zijn als er ook een duidelijke hardware component in zit**.
+- Om een pad rond PLC's  ook voor S4 open te houden kiezen we ervoor om het thema voor S4 een beetje generiek "Grote complexe systemen" te noemen, zonder te eisen dat het pc-based moet zijn.
+  
+### S3 "Real time distributed systems, networking and software archtecture"
+- Voor het initiele voorstel voor S3: uitgaande van de skills-set die nodig is voor het ontwikkelen van een lasergame, maar dan met meer diepgang op networking. Daar leek breed draagvlak voor te zijn.
+- Er is een begin gemaakt met een beroepstaak formulering voor S3. Zie [https://github.com/HU-TI-DEV/TI-S3](https://github.com/HU-TI-DEV/TI-S3)
+
+### Teamsamenstellingen S3 en S4
+Er is een knop doorgehakt (door Vivian) t.a.v. de bemanningen van S3 en S4. In beide gevallen is Harm de coordinator-coordinator. In S3 krijgen Marius en Hagen een centrale rol. In S4 krijgen Nick en Jan Halsema een centrale rol.
+
+### Teammeetings S2 en S3
+Er is afgesproken dat voortaan op de dinsdagmiddag de teammeetings van S3 zullen worden gehouden, en dat die van S2 komen te vervallen. Voor S2 zullen ad hoc meetings worden ingelast als daar aanleiding toe is.
+
+### Projecten zoeken
+Marius heeft toegezegd wel te willen kijken of het lukt om geschikte projecten te vinden bij bedrijven voor om te beginnen S3. Een eerste aanzet is het maken van een beschrijving van aan welke eisen de projecten moeten voldoen. Vervolgens die mailen naar Erik vd Voort en Anita Boerkamp. Vervolgens gesprekken voeren met potentieel geschikte bedrijven voor verdere verkenning. Evt zelf ook direct contact zoeken met bedrijven.
