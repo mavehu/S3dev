@@ -1,10 +1,31 @@
+# Voorbereiding S3
+
 <!-- toc -->
+
+- [Voorbereiding S3](#voorbereiding-s3)
+- [Opbouw van dit document](#opbouw-van-dit-document)
+- [Geprioriteerde lijst met actuele TODO's](#geprioriteerde-lijst-met-actuele-todo's)
+- [Wat eerste hoofdvragen](#wat-eerste-hoofdvragen)
+- [Uitgangspunten](#uitgangspunten)
+- [Mogelijke opsplitsing van de onderwerpen over S3 en S4 met minimale dependencies en voorbeelden van bijbehorende projecten](#mogelijke-opsplitsing-van-de-onderwerpen-over-s3-en-s4-met-minimale-dependencies-en-voorbeelden-van-bijbehorende-projecten)
+  - [Semester 3 Real Time Advanced Coding](#semester-3-real-time-advanced-coding)
+  - [Semester 4 Large Complex Systems](#semester-4-large-complex-systems)
+  - [Projectideëen voor S3](#projectideëen-voor-s3)
+    - [Lasergame](#lasergame)
+    - [Project: Ontwikkeling van een Prototype Smart Laadstation (voor Alfen)](#project:-ontwikkeling-van-een-prototype-smart-laadstation-(voor-alfen))
+    - [Een warmtepomp-systeem?](#een-warmtepomp-systeem?)
+  - [Projectideëen voor S4](#projectideëen-voor-s4)
+    - [PLC based besturingssysteem voor automatiseringsscenario's](#plc-based-besturingssysteem-voor-automatiseringsscenario's)
+      - [VR simulatiegame](#vr-simulatiegame)
+      - [Digital Twins](#digital-twins)
+      - [AR assistent](#ar-assistent)
+- [Organisatie](#organisatie)
+  - [Team](#team)
+  - [Bijeenkomsten S3](#bijeenkomsten-s3)
 
 <!-- tocstop -->
 
-# Voorbereiding S3
-
-## Opbouw van dit document
+# Opbouw van dit document
 
 Dit document is een soort overzicht van "Samenvattingen/Belangrijkste topics/Huidige Stand van Zaken". Voor details wordt gelinkt naar andere documenten, zoals verslagen van meetings en andere documenten die er aan ten grondslag liggen..
 
@@ -14,7 +35,7 @@ Om te beginnen:
 - Wat eerste hoofdvragen
 - Uitgangspunten
 
-## Geprioriteerde lijst met actuele TODO's
+# Geprioriteerde lijst met actuele TODO's
 
 Onderstaand is een lijst met actuele TODO's voor de korte termijn (komende weken):
 
@@ -26,7 +47,7 @@ Onderstaand is een lijst met actuele TODO's voor de korte termijn (komende weken
 - S3 git creëeren naar analagon van de S2 site.
 - Lesmateriaal etc. aan toevoegen
 
-## Wat eerste hoofdvragen
+# Wat eerste hoofdvragen
 
 - Wat moet de Technish Informaticus die de HU verlaat minimaal kunnen na S3 en S4 (zowel professioneel als technisch inhoudelijk)?
 - Waarvoor is draagvlak binnen het docententeam?
@@ -36,7 +57,7 @@ Onderstaand is een lijst met actuele TODO's voor de korte termijn (komende weken
 - Hoe ziet het toplevel treintje van beroepstaken en leeruitkomsten, opgesplitst in tijd naar a en b er uit voor S3 en S4? (Studenten doen dus S3a S4b of S4a S3b).
 - Hoe gaan we de S3 ontwikkeling organiseren?
 
-## Uitgangspunten
+# Uitgangspunten
 
 Beschikbare uitgangspunten zijn onderstaand opgesomd.
 In het document [S3_kickoff_27_nov_2023](../S3_kickoff_27_nov_2023/S3_kickoff_27_nov_2023.md) worden de er aan voorafgaande bulletpoints in meer detail samengevat en besproken. Ook de uitkomsten van de nabespreking van de betreffende kickofmeeting zijn er te vinden.
@@ -55,9 +76,9 @@ In het document [S3_kickoff_27_nov_2023](../S3_kickoff_27_nov_2023/S3_kickoff_27
 
 - [Initiele formulering van Beroepstaak van S3](https://github.com/HU-TI-DEV/TI-S3)
 
-### Mogelijke opsplitsing van de onderwerpen over S3 en S4 met minimale dependencies en voorbeelden van bijbehorende projecten
+# Mogelijke opsplitsing van de onderwerpen over S3 en S4 met minimale dependencies en voorbeelden van bijbehorende projecten
 
-### Semester 3 Real Time Advanced Coding
+## Semester 3 Real Time Advanced Coding
 
 - Wat Python
 - Basisprincipes van Networking, Server, Database, Docker,
@@ -69,7 +90,7 @@ In het document [S3_kickoff_27_nov_2023](../S3_kickoff_27_nov_2023/S3_kickoff_27
 
 Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk component en software architectuur.
 
-### Semester 4 Large Complex Systems
+## Semester 4 Large Complex Systems
 
 - System Engineering (met Waterval) & Software Architectuur
 - Optioneel: Hardware-heavy pad:
@@ -85,9 +106,9 @@ Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk comp
     - XR, AR, VR
     - Unity3d based, Unreal engine based
 
-### Projectideëen voor S3
+## Projectideëen voor S3
 
-#### Lasergame
+### Lasergame
 
 - Het normproject voor het vinden van andere projecten is een uitgebreide uitvoering van een "lasergame ":
   - De laserguns zijn ESP32-based (gebruikmakend van **FreeRtos**)
@@ -99,18 +120,18 @@ Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk comp
 
 Bij de lasergame zijn er relatief weinig actuatoren (alleen, trilling generators en ir-leds). Het zou nog mooier zijn als er wat basic robotica bij komt kijken(lopende banden, etc).
 
-#### Project: Ontwikkeling van een Prototype Smart Laadstation (voor Alfen)
+### Project: Ontwikkeling van een Prototype Smart Laadstation (voor Alfen)
 
 - **Doel**: Ontwerpen en ontwikkelen van een geïntegreerde softwareoplossing voor een smart laadstation voor elektrische voertuigen. Dit project zou gericht zijn op het integreren van embedded systemen (met focus op C en Python), remote monitoring, en power management.
 - **Details**: Studenten ontwikkelen software voor embedded systemen die communiceren met een centrale server voor statusupdates en controle. Het project omvat aspecten van netwerkprotocollen, databasebeheer en mogelijk een eenvoudige frontend-interface voor monitoring en beheer.
   <mark>-> TODO: Meer informatie daarover proberen in te winnen.</mark>
 
-#### Een warmtepomp-systeem?
+### Een warmtepomp-systeem?
 
 - Ik heb het gevoel dat warmtepompen eerder werken met PLC's dan met microcontrollers. In dat geval zou het interessanter zijn voor S4. Enfin, goed om uit te zoeken.
   <mark>-> TODO: Meer informatie daarover proberen in te winnen.</mark>
 
-### Projectideëen voor S4
+## Projectideëen voor S4
 
 Het vinden van Projectideëen van S4 heeft op dit moment niet de prioriteit maar is goed om tijdens het zoeken naar projecten voor S3 in het achterhoofd te houden.
 
@@ -119,24 +140,20 @@ Het vinden van Projectideëen van S4 heeft op dit moment niet de prioriteit maar
 - Een PLC-controlled warmtepompsysteem
   -> kan interessant zijn. Maar eerste prioriteit heeft het vinden van projecten voor de routes die breed draagvlak hebben (gaming, simulatie).
 
-### VR simulatiegame
+#### VR simulatiegame
 
 - Training met varen van een schip
-
 - Training met het plegen van onderhoud
-
 - Training met wat voor situatie dan ook die anders duur of lastig zou zijn.
   
-  ### Digital Twins
+#### Digital Twins
 
 - Robot, productielijn of wat dan ook programmeren en optimaliseren dmv digital twin.
   
-  ### AR assistent
+#### AR assistent
 
 - Voor orderpicking
-
 - Voor onderhoud
-
 - Voor whatever..
 
 # Organisatie
