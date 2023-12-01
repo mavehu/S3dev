@@ -145,11 +145,11 @@ Het vinden van Projectideëen van S4 heeft op dit moment niet de prioriteit maar
 - Training met varen van een schip
 - Training met het plegen van onderhoud
 - Training met wat voor situatie dan ook die anders duur of lastig zou zijn.
-  
+
 #### Digital Twins
 
 - Robot, productielijn of wat dan ook programmeren en optimaliseren dmv digital twin.
-  
+
 #### AR assistent
 
 - Voor orderpicking
