@@ -83,16 +83,17 @@ In het document [S3_kickoff_27_nov_2023](../S3_kickoff_27_nov_2023/S3_kickoff_27
 - Wat Python
 - Basisprincipes van Networking, Server, Database, Docker,
   REST, TCP/IP, HTML, CSS
-- Software architectuur: van UseCase Diagram tot Code
-- Algoritmen, datastructuren, design patterns.
+- Software architectuur: van UseCase Diagram tot Code, basic System architecture
+- Wat basic design patterns
 - Multithreading - RTOS
 - Frontend - Javascript
 
 Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk component en software architectuur.
 
-## Semester 4 Large Complex Systems
+## Semester 4 Large Complex Systems / Coding beyond microcontrollers
 
 - System Engineering (met Waterval) & Software Architectuur
+- Uitgebreider Algoritmen, datastructuren, design patterns.
 - Optioneel: Hardware-heavy pad:
   - Wat electrotechniek
   - Besturingstechniek & Integratie van Actuatoren en Sensoren
@@ -105,6 +106,7 @@ Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk comp
   - Opties:
     - XR, AR, VR
     - Unity3d based, Unreal engine based
+In Semester 4 leert de student dus vooral dingen buiten de wereld van microcontrollers. Je kunt het dus zien als een soort lange Minor (maar ook weer niet, want voorkennis is vereist), waarin de student een pad kan kiezen met een focus op juist systemen met grote rekenkracht (PC, AR, VR based simulaties), of iets arcanes als PLC programming (de beschikbare paden hangen af van de aanwezige kennis bij de dienstdoende docenten).
 
 ## Projectideëen voor S3
 
@@ -134,6 +136,8 @@ Bij de lasergame zijn er relatief weinig actuatoren (alleen, trilling generators
 ## Projectideëen voor S4
 
 Het vinden van Projectideëen van S4 heeft op dit moment niet de prioriteit maar is goed om tijdens het zoeken naar projecten voor S3 in het achterhoofd te houden.
+
+Een persoonlijk inkoppertje voor mij is om te kijken of dezelfde personen nog bij the OTTO Innovations Lab werken (van OTTO workforce), via welke ik eerder een VR project tbv van Hoogvliet heb gemaakt.
 
 ### PLC based besturingssysteem voor automatiseringsscenario's
 
@@ -169,4 +173,4 @@ Het team dat (initieel) aan S3 gaat werken bestaat uit:
 
 ## Bijeenkomsten S3
 
-  We komen op dinsdagmiddag bij elkaar.
+We komen op dinsdagochtend bij elkaar, van 11:00 tot 12:00
