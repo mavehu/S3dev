@@ -70,7 +70,7 @@ In het document [S3_kickoff_27_nov_2023](../S3_kickoff_27_nov_2023/S3_kickoff_27
 
 - [Vacatureonderzoek_ASML_2023_11_26](../Bronnen/Vacatureonderzoek_ASML_2023_11_26/Vacatureonderzoek_ASML_2023_11_26.md)
 
-- [Workshop Op weg naar HBO ICT (ihb S2, 5 sept 2023)](../Bronnen/Workshop_Op_weg naar_HBO_ICT.pdf)
+- [Workshop Op weg naar HBO ICT (ihb S2, 5 sept 2023)](../Bronnen/Workshop_Op_weg_naar_HBO_ICT.pdf)
 
 - [S3_kickoff_27_nov_2023](../S3_kickoff_27_nov_2023/S3_kickoff_27_nov_2023.md).
 

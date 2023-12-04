@@ -26,7 +26,7 @@ Beschikbare uitgangspunten tot dusverre daarvoor lijken op dit moment grosso mod
 
 - [Vacatureonderzoek_ASML_2023_11_26](../Bronnen/Vacatureonderzoek_ASML_2023_11_26/Vacatureonderzoek_ASML_2023_11_26.md)
 
-- [Workshop Op weg naar HBO ICT (ihb S2, 5 sept 2023)](../Bronnen/Workshop_Op_weg naar_HBO_ICT.pdf)
+- [Workshop Op weg naar HBO ICT (ihb S2, 5 sept 2023)](../Bronnen/Workshop_Op_weg_naar_HBO_ICT.pdf)
 
 ## Toetsprogramma TI_2026.ppt (15 juni 2023)
 
