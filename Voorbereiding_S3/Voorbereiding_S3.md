@@ -106,21 +106,26 @@ Semester 3 is dus een stap omhoog vanaf Semester 2, met diepgaander netwerk comp
   - Opties:
     - XR, AR, VR
     - Unity3d based, Unreal engine based
-In Semester 4 leert de student dus vooral dingen buiten de wereld van microcontrollers. Je kunt het dus zien als een soort lange Minor (maar ook weer niet, want voorkennis is vereist), waarin de student een pad kan kiezen met een focus op juist systemen met grote rekenkracht (PC, AR, VR based simulaties), of iets arcanes als PLC programming (de beschikbare paden hangen af van de aanwezige kennis bij de dienstdoende docenten).
+      In Semester 4 leert de student dus vooral dingen buiten de wereld van microcontrollers. Je kunt het dus zien als een soort lange Minor (maar ook weer niet, want voorkennis is vereist), waarin de student een pad kan kiezen met een focus op juist systemen met grote rekenkracht (PC, AR, VR based simulaties), of iets arcanes als PLC programming (de beschikbare paden hangen af van de aanwezige kennis bij de dienstdoende docenten).
 
 ## Projectideëen voor S3
 
-### Lasergame
+### Normproject: Lasergame
 
 - Het normproject voor het vinden van andere projecten is een uitgebreide uitvoering van een "lasergame ":
-  - De laserguns zijn ESP32-based (gebruikmakend van **FreeRtos**)
+  - De laserguns zijn ESP32-**microcontroller** based (gebruikmakend van **FreeRtos**)
   - Communiceren onderling met NEC **infrarood protocol**
   - Communiceren via **WIFI** met een server op een pc.
   - De **server** draait op een **python flask** applicatie. 
   - Er is ook een **frontend**, geschreven in **javascript, HTML en CSS**, via welke de game parameters ingesteld kunnen worden en de lopende game progress gemonitord kan worden. 
   - De resultaten kunnen worden opgeslagen in een **database** en later nog eens worden bekeken.
 
-Bij de lasergame zijn er relatief weinig actuatoren (alleen, trilling generators en ir-leds). Het zou nog mooier zijn als er wat basic robotica bij komt kijken(lopende banden, etc).
+Bij de lasergame zijn er relatief weinig actuatoren (alleen, trilling generators en ir-leds). Het zou nog mooier zijn als er wat basic robotica bij komt kijken.
+
+#### Oproep voor Projecten voor S3
+
+In onderstaande flyer voor bedrijven is een oproep voor projecten voor S3 geformuleerd:
+[Oproep_voor_projecten_van_S3](../Oproep_voor_projecten_van_S3/Oproep_voor_projecten_van_S3.md)
 
 ### Project: Ontwikkeling van een Prototype Smart Laadstation (voor Alfen)
 
