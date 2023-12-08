@@ -125,7 +125,7 @@ Bij de lasergame zijn er relatief weinig actuatoren (alleen, trilling generators
 #### Oproep voor Projecten voor S3
 
 In onderstaande flyer voor bedrijven is een oproep voor projecten voor S3 geformuleerd:
-[Oproep_voor_projecten_van_S3](../Oproep_voor_projecten_van_S3/Oproep_voor_projecten_van_S3.md)
+[Oproep_voor_projecten_van_S3](../Oproep_voor_projecten_van_S3/Oproep_voor_projecten_van_S3b.md)
 
 ### Project: Ontwikkeling van een Prototype Smart Laadstation (voor Alfen)
 

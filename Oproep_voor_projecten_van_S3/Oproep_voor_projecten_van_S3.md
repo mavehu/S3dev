@@ -7,13 +7,17 @@ Bij de Hogeschool Utrecht vind een transitie plaats naar zogenaamd "semesteronde
 Dat geeft relevantie en daardoor extra motivatie, is de gedachte.
 Heel fijn, maar niet verplicht zou zijn als iemand uit het bedrijf dat gekoppeld is aan het project tijdens het semester een paar keer een praatje wil komen houden over het bedrijf / over de praktijk.
 
-### Voordeel voor het bedrijf
+### Voordelen voor het bedrijf
 
-Belangrijkste voordeel voor het bedrijf is bekendheid bij toekomstige afstudeerders, wat helpt bij het vinden van voldoende sollicitanten voor toekomstige vactatures. 
+Mogelijke voordelen voor het bedrijf zijn:
+
+- Bekendheid bij toekomstige afstudeerders, wat helpt bij het vinden van voldoende sollicitanten voor toekomstige vactatures. 
+- Ofschoon het gaat om studenten in opleiding, kan het bedrijf mogelijk toch een en ander opsteken van het door de studenten ontwikkelde eindresultaat. 
+- Daarnaast kan het natuurlijk interessant zijn om een voor het bedrijf nuttig idee gratis te laten uitwerken / prototypen.
 
 ## Wij zoeken..
 
-Bij technische informatica zoeken we voor ons derde semester naar projecten waarbij microcontrollers tijdkritisch meerdere dingen tegelijk moeten doen met sensoren en/of actuatoren (zoals IR-communicatie in onderstaand voorbeeldproject), waarbij die microcontrollers een netwerk-verbinding maken met een server. Een en ander wordt opgeslagen in een database. Via een frontend kan een en ander worden beheerd en aangestuurd. Koppeling aan een sustainable development goal is een plus.
+Bij technische informatica zoeken we voor ons derde semester projecten waarbij microcontrollers tijdkritisch meerdere dingen tegelijk moeten doen met sensoren en/of actuatoren (zoals IR-communicatie in onderstaand voorbeeldproject), waarbij die microcontrollers een netwerk-verbinding maken met een server. Een en ander wordt opgeslagen in een database. Via een frontend kan een en ander worden beheerd en aangestuurd. Koppeling aan een sustainable development goal is een plus.
 
 ## Voorbeeldproject: Lasergame
 
@@ -37,4 +41,4 @@ Heeft u het idee dat er bij uw bedrijf producten worden ontwikkeld die passen in
 
 - marius.versteegen@hu.nl
 
-- 0683841459
+- 0683841457
