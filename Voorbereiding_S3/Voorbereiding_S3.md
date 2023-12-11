@@ -32,7 +32,7 @@ Dit document is een soort overzicht van "Samenvattingen/Belangrijkste topics/Hui
 Om te beginnen:
 
 - Actuele TODO's
-- Wat eerste hoofdvragen
+- Wat hoofdvragen
 - Uitgangspunten
 
 # Geprioriteerde lijst met actuele TODO's
@@ -52,6 +52,9 @@ Onderstaand is een lijst met actuele TODO's voor de korte termijn (komende weken
 
 Dat kan bijvoorbeeld worden voortgezet op:
 [[GitHub - HU-TI-DEV/TI-S3: Semester 3 van Technische Informatica](https://github.com/HU-TI-DEV/TI-S3)
+
+Ik heb daar nog geen edit-rechten voor.
+Ik zou zeggen dat de regel "Op basis van afwegingen worden deze keuzes onderbouwd." niets toevoegt aan de er aan voorafgaande zin.
 
 # Wat hoofdvragen
 
@@ -172,6 +175,10 @@ Een persoonlijk inkoppertje voor mij is om te kijken of dezelfde personen nog bi
 - Voor orderpicking
 - Voor onderhoud
 - Voor whatever..
+
+# Jaarindeling
+
+[Eerste_aanzet_voor_een_jaarindeling](..\drawio\Jaarindeling\Jaarindeling_1.drawio.svg)
 
 # Organisatie
 

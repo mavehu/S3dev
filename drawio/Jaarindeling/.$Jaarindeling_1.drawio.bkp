@@ -1,0 +1,402 @@
+<mxfile host="Electron" modified="2023-12-11T18:05:15.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="DTF1I4_LXs4T01x_iy1x" version="22.0.2" type="device">
+  <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
+    <mxGraphModel dx="1325" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;disableMultiStroke=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="140" width="180" height="2360" as="geometry" />
+        </mxCell>
+        <object label="Volgorde van Activiteiten" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
+            <mxGeometry y="28" width="180" height="2332" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Kickoff:&lt;br&gt;Overview&lt;br&gt;Teamvorming" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-3">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Kennismaking met &quot;Klanten / Bedrijven&quot;,&lt;br&gt;Hun opdracht in grote lijnen" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-4">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Inleiding System Engineering" placeholders="1" id="_5mSTuPxr-ZiKRkBDSY7-5">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" parent="_5mSTuPxr-ZiKRkBDSY7-2" vertex="1">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Systeem Context&lt;br&gt;Diagram,&lt;br&gt;Identificatie van Stakeholders en Key Drivers" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-6">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="321" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Prioritering van Stakeholders,&amp;nbsp;&lt;br&gt;Formulering van application Drivers" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-5">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="421" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Key-driver Graph opstellen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-7">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="521" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Functional Requirements opstellen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-8">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="621" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Non Functional Requirements opstellen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-9">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="721" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Constraints opstellen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-10">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="821" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Use Case Diagram,&lt;br&gt;Use Case beschrijvingen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-11">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="921" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="ActivityDiagrammen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-12">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1021" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Logische View" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-26">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Tracability Diagram naar elementen Logische View" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-27">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Physical View" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-28">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffe6cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d79b00;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1321" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-29" target="HKqX8OT6sRfa5kSOksuR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-82" target="HKqX8OT6sRfa5kSOksuR-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Use Case Diagram,&lt;br&gt;Use Case beschrijvingen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-82">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1421" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-83" target="HKqX8OT6sRfa5kSOksuR-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="ActivityDiagrammen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-83">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1521" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Object Model" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-29">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1621" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-30" target="HKqX8OT6sRfa5kSOksuR-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Klassediagram" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-30">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1721" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-33" target="HKqX8OT6sRfa5kSOksuR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Internal Block Diagram" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-33">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1821" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-31" target="HKqX8OT6sRfa5kSOksuR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="STD&#39;s" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-31">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="1921" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-32" target="HKqX8OT6sRfa5kSOksuR-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Code Schrijven" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-32">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="2021" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-76" value="" style="endArrow=none;html=1;rounded=1;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-82" target="HKqX8OT6sRfa5kSOksuR-148">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1612" as="sourcePoint" />
+            <mxPoint x="170" y="1562" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-30" y="1652" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-81" value="Voor elke&lt;br&gt;sub-systeem&lt;br&gt;Eerst ESP32,&lt;br&gt;Dan backend,&lt;br&gt;Dan frontend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HKqX8OT6sRfa5kSOksuR-76">
+          <mxGeometry x="-0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-2" source="HKqX8OT6sRfa5kSOksuR-147" target="HKqX8OT6sRfa5kSOksuR-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Code Implementeren" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-147">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="2121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Testen, Debuggen" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-148">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;" vertex="1" parent="_5mSTuPxr-ZiKRkBDSY7-2">
+            <mxGeometry x="20" y="2221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-116" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;disableMultiStroke=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1900" width="180" height="250" as="geometry" />
+        </mxCell>
+        <object label="Tbv ESP32 subsysteem" status="New" id="HKqX8OT6sRfa5kSOksuR-117">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-116">
+            <mxGeometry y="28" width="180" height="222" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Plenair Installatie van ESP32 IDF" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-118">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Workshop valkuilen en debuggen op ESP32" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-119">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-181" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;disableMultiStroke=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1900" width="180" height="360" as="geometry" />
+        </mxCell>
+        <object label="Tbv backend" status="New" id="HKqX8OT6sRfa5kSOksuR-182">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-181">
+            <mxGeometry y="28" width="180" height="332" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Meer over Networking, REST, Docker" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-183">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Workshop Flask Server&amp;nbsp;" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-184">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Workshop MongoDB" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-202">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-182">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-191" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;disableMultiStroke=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1900" width="180" height="360" as="geometry" />
+        </mxCell>
+        <object label="Tbv frontend" status="New" id="HKqX8OT6sRfa5kSOksuR-192">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-191">
+            <mxGeometry y="28" width="180" height="332" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Meer over Networking, REST, Docker" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-193">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Workshop HTML, CSS" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-194">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Workshop Javascript" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-201">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-192">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-203" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;disableMultiStroke=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1400" width="180" height="350" as="geometry" />
+        </mxCell>
+        <object label="Tbv Hardware opbouw" status="New" id="HKqX8OT6sRfa5kSOksuR-204">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-203">
+            <mxGeometry y="28" width="180" height="322" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Herhaling + Wat meer over electronica" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-205">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+            <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Workshop aansturing motoren" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-206">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HKqX8OT6sRfa5kSOksuR-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="301" as="sourcePoint" />
+            <mxPoint x="90" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Workshop Antennes" placeholders="1" id="HKqX8OT6sRfa5kSOksuR-214">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="HKqX8OT6sRfa5kSOksuR-204">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
