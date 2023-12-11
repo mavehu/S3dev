@@ -39,6 +39,7 @@ Om te beginnen:
 
 Onderstaand is een lijst met actuele TODO's voor de korte termijn (komende weken):
 
+- Ongoing: scherp krijgen van inhoudelijke hoofdvragen
 - Formulering beroepstaken en leeruitkomsten afronden voor S3
 - Meteen ook formulering beroepstaken en leeruitkomsten afronden voor S4
 - Zoeken naar geschikte projecten voor S3
@@ -47,7 +48,12 @@ Onderstaand is een lijst met actuele TODO's voor de korte termijn (komende weken
 - S3 git creëeren naar analagon van de S2 site.
 - Lesmateriaal etc. aan toevoegen
 
-# Wat eerste hoofdvragen
+# Formulering beroepstaken en leeruitkomsten afronden voor S3
+
+Dat kan bijvoorbeeld worden voortgezet op:
+[[GitHub - HU-TI-DEV/TI-S3: Semester 3 van Technische Informatica](https://github.com/HU-TI-DEV/TI-S3)
+
+# Wat hoofdvragen
 
 - Wat moet de Technish Informaticus die de HU verlaat minimaal kunnen na S3 en S4 (zowel professioneel als technisch inhoudelijk)?
 - Waarvoor is draagvlak binnen het docententeam?
