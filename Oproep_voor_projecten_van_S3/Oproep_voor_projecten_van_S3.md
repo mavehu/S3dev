@@ -1,10 +1,10 @@
-# Gezocht: Projecten voor S3 van Technische informatica
+# Gezocht: Projecten voor het 3e semester van Technische informatica
 
 ## Inleiding
 
-Bij de Hogeschool Utrecht vind een transitie plaats naar zogenaamd "semesteronderwijs met programmatisch toetsen". Een leidend idee erachter is dat studenten gedurende blokken van een half jaar in een team (van laten we zeggen 5 personen) werken aan een product/project welke direct nuttig is voor of veel lijkt op een product welke ook bij een bedrijf wordt ontwikkeld.
+Bij de Hogeschool Utrecht vindt een transitie plaats naar zogenaamd "semesteronderwijs met programmatisch toetsen". Een leidend idee erachter is dat studenten gedurende blokken van een half jaar in een team (van laten we zeggen 5 personen) werken aan een product/project welke direct nuttig is voor of veel lijkt op een product welke ook bij een bedrijf wordt ontwikkeld.
 
-Dat geeft relevantie en daardoor extra motivatie, is de gedachte.
+Dat geeft relevantie en daardoor extra motivatie.
 Heel fijn, maar niet verplicht zou zijn als iemand uit het bedrijf dat gekoppeld is aan het project tijdens het semester een paar keer een praatje wil komen houden over het bedrijf / over de praktijk.
 
 ### Voordelen voor het bedrijf
