@@ -179,6 +179,7 @@ Een persoonlijk inkoppertje voor mij is om te kijken of dezelfde personen nog bi
 # Jaarindeling
 
 [Eerste_aanzet_voor_een_jaarindeling](..\drawio\Jaarindeling\Jaarindeling_1.drawio.svg)
+[Versie_2_voor_een_jaarindeling](..\drawio\Jaarindeling\Jaarindeling_2.svg)
 
 # Organisatie
 
